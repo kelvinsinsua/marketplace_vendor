@@ -10,7 +10,8 @@ export const defaultI18nOptions: InitOptions = {
     lookupLocalStorage: "lng",
     order: ["cookie", "localStorage", "header"],
   },
-  fallbackLng: "en",
+  fallbackLng: "es",
+  lng: "es", // Set Spanish as the default language
   interpolation: {
     escapeValue: false,
   },
