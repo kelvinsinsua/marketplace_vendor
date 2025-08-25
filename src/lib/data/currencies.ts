@@ -685,6 +685,12 @@ export const currencies: Record<string, CurrencyInfo> = {
     symbol_native: "Bs.F.",
     decimal_digits: 2,
   },
+  REF: {
+    code: "REF",
+    name: "Venezuela REF",
+    symbol_native: "REF.",
+    decimal_digits: 2,
+  },
   VND: {
     code: "VND",
     name: "Vietnamese Dong",
